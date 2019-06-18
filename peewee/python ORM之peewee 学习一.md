@@ -29,3 +29,8 @@
 ![1560850141130](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1560850141130.png)
 
 ##### 使用 Person.create_table()语句便可创建表。
+
+#### 3. 增删改查
+
+![](D:\study_collections\图片集合\Snipaste_2019-06-18_18-22-59.png)
+
